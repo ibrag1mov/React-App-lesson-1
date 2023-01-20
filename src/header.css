@@ -1,0 +1,28 @@
+
+header{
+    width: 100%;
+    background-color: #fff;
+    padding: 30px 0;
+    box-shadow:  0px 2px 4px rgba(0, 0, 0, 0.0562443);
+}
+
+
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.nav-title-link{
+    text-decoration: none;
+    color: inherit;
+    font-size: 24px;
+}
+
+.dark-mode-btn {
+    padding: 10px 30px;
+    background-color: transparent;
+    border: none;
+    outline: none;
+    cursor: pointer;
+}
