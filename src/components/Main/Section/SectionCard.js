@@ -1,5 +1,6 @@
 import Card from "./Card";
 import data from "./../../../data"
+import './section.scss'
 
 
 const SectionCard = ()=>{

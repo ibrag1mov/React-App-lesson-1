@@ -1,5 +1,6 @@
 import Logo from "./Logo";
 import DarkMode from "./DarkMode";
+import './header.scss'
 
 function Header(){
     return (
